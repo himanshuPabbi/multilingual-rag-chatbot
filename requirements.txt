@@ -1,0 +1,28 @@
+# Groq LLM integration
+groq
+langchain-groq
+
+# LangChain framework and core components
+langchain
+langchain-core
+
+# Data loading and processing
+pypdf
+
+# Text splitting and chunking
+langchain-text-splitters
+
+# Multilingual Embeddings (HuggingFace/Sentence-Transformers)
+sentence-transformers
+langchain-huggingface
+
+# Vector Store (Local CPU-based vector database)
+faiss-cpu
+numpy
+
+# Web Interface
+streamlit
+
+# Environment variable management
+python-dotenv
+
