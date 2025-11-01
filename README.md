@@ -32,8 +32,7 @@ The system integrates Groq’s llama-3.1-8b-instant model for ultra-low-latency 
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/himanshuPabbi/multilingual-rag-chatbot
 
 2️⃣ Create a Virtual Environment
 python -m venv venv
