@@ -1,5 +1,7 @@
 Groq-Accelerated Multilingual Healthcare RAG Chatbot
 
+**Data Source:** [MedQuAD: Medical Question Answering Dataset](https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research) by PythonAfroz on Kaggle.
+
 An advanced Retrieval-Augmented Generation (RAG) chatbot that leverages Groq LPU acceleration, LangChain, and FAISS vector search for lightning-fast, multilingual healthcare question answering.
 The system integrates Groq’s llama-3.1-8b-instant model for ultra-low-latency reasoning, combined with a local knowledge base for factual and explainable responses.
 
